@@ -1,25 +1,21 @@
-# DSITW-Final-Project
+# InvestMatch
 
-## Summary of Data Tables
+> InvestMatch aims to revolutionize the investment landscape by developing a sophisticated recommendation system tailored for the investment community, including venture capitalists, angel investors, private equity firms, and others seeking lucrative investment opportunities. 
 
-1. acquisitions.csv: Contains details on startup acquisitions, including buyer, seller, acquisition price, and date.
+### Goal
+The primary goal of InvestMatch is to streamline the process of matching investors with investment opportunities that align closely with their specific preferences, investment criteria, and risk tolerance.
 
-2. degrees.csv: Holds educational background data of individuals in the startup ecosystem, such as degrees and institutions.
+### Why
+> By accurately matching investors with startups, InvestMatch can significantly reduce the time and resources investors spend searching for suitable investment opportunities, leading to more successful investments.
 
-3. funding_rounds.csv: Lists various funding events for startups with information on the amount raised, round type, and date.
+- Helping investors understand the potential risk associated with different investment opportunities enables more informed decision-making, aligning investments with their risk tolerance.
 
-4. funds.csv: Provides data on investment funds, including fund size and the date it was established.
+- Providing insights into investment trends and patterns allows investors to make proactive, data-informed decisions, potentially leading to higher returns.
+  
+- Understanding investor behavior can lead to more nuanced and effective recommendations, increasing the efficiency of the investment process.
 
-5. investments.csv: Records individual investments made by investors, including the amount and the involved parties.
 
-6. ipos.csv: Captures data on startups that have gone public, including valuation, money raised, and IPO date.
 
-7. milestones.csv: Contains significant achievements or events of startups.
 
-8. objects.csv: Acts as a master table with basic information about entities (people and companies) in the startup ecosystem.
 
-9. offices.csv: Contains location information for startup offices.
 
-10. people.csv: Details individuals in the startup world, including names and affiliations.
-
-11. relationships.csv: Links individuals to entities and positions, detailing their roles and tenure.
